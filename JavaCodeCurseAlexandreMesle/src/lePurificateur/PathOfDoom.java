@@ -1,4 +1,4 @@
-package alexandreMesle;
+package lePurificateur;
 
 public class PathOfDoom implements specifications.PathOfDoom
 {

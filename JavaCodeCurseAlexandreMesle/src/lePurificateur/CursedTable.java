@@ -1,4 +1,4 @@
-package alexandreMesle;
+package lePurificateur;
 
 public class CursedTable implements specifications.CursedTable
 {

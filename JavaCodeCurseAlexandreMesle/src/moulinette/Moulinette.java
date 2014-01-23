@@ -33,7 +33,7 @@ public class Moulinette
 	
 	private void addAllFactories()
 	{
-		addFactory(new alexandreMesle.Factory());
+		addFactory(new lePurificateur.Factory());
 	}
 	
 	public void run()
@@ -48,7 +48,7 @@ public class Moulinette
 	public static void main(String[] args)
 	{
 		Moulinette m = new Moulinette();
-		m.addFactory(new alexandreMesle.Factory());		
+		m.addFactory(new lePurificateur.Factory());		
 		m.run();
 	}
 }

@@ -1,4 +1,4 @@
-package alexandreMesle;
+package lePurificateur;
 
 public class Factory implements specifications.Factory
 {

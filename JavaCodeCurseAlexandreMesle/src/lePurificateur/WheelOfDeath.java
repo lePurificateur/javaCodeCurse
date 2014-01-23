@@ -1,4 +1,4 @@
-package alexandreMesle;
+package lePurificateur;
 
 public class WheelOfDeath implements specifications.WheelOfDeath
 {
