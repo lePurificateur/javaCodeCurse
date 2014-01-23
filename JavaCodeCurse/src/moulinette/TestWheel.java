@@ -60,7 +60,7 @@ public class TestWheel extends TestCase
 	public void run()
 	{
 		System.out.println("Testing wheel of death : ");
-		int nbTests = 20;
+		int nbTests = 500;
 		testWheels(nbTests, 50, 2);
 		testWheels(nbTests, 10, 10);
 		testWheels(nbTests, 500, 1000);
