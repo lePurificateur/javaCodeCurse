@@ -35,7 +35,7 @@ public class Moulinette
 	{
 		addFactory(new alexandreMesle.Factory());
 	}
-
+	
 	public void run()
 	{
 		for (TestFactory test : tests)
